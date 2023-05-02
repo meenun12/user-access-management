@@ -2,7 +2,7 @@
 
 This is a simple Flask web application that allows product owners to manage teams and employees, and assign permissions to view teams dashboard.
 Here is also a loom video, which explains how to install and use this app
-https://www.loom.com/share/3a78c0e472e84c87926980c3d6e3e98d
+https://www.loom.com/share/d586781ff5f14f40905fc634d106f4ca
 
 
 ## Installation
