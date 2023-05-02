@@ -1,0 +1,13 @@
+# Python cache
+__pycache__
+
+# Environments
+env/
+
+# Pycharm file
+.idea/
+.idea
+
+.DS_Store
+
+
